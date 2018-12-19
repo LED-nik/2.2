@@ -1,2 +1,4 @@
 /Theater/Theater/obj/Debug/*
 *.tmp
+/Theater/.vs/*
+

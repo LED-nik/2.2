@@ -1,0 +1,7 @@
+C:\Users\dimab\Downloads\PortableGit\2.2\Theater\Theater\bin\Debug\Theater.exe.config
+C:\Users\dimab\Downloads\PortableGit\2.2\Theater\Theater\bin\Debug\Theater.exe
+C:\Users\dimab\Downloads\PortableGit\2.2\Theater\Theater\bin\Debug\Theater.pdb
+C:\Users\dimab\Downloads\PortableGit\2.2\Theater\Theater\obj\Debug\Theater.csprojAssemblyReference.cache
+C:\Users\dimab\Downloads\PortableGit\2.2\Theater\Theater\obj\Debug\Theater.csproj.CoreCompileInputs.cache
+C:\Users\dimab\Downloads\PortableGit\2.2\Theater\Theater\obj\Debug\Theater.exe
+C:\Users\dimab\Downloads\PortableGit\2.2\Theater\Theater\obj\Debug\Theater.pdb
