@@ -32,7 +32,7 @@ namespace Theater
             Console.WriteLine("Enter surname");
             string surname = Console.ReadLine();
             Person user = new Person(name, surname);
-            user.output();
+            Console.WriteLine(user.output());
             Console.ReadKey();
         }
     }
